@@ -8,7 +8,7 @@ esphome:
     version: "1.3.0"
 
 esp32:
-  board: esp32dev
+  board: lolin_c3_mini
   framework:
     type: esp-idf
 
